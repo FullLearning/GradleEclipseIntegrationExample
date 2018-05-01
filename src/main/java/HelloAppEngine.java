@@ -31,6 +31,6 @@ public class HelloAppEngine extends HttpServlet {
 		}
 
 	
-		writer.println("Hello world James Mortensen!");
+		writer.println("Hello world James Mortensen! How are you today?");
 	}
 }
